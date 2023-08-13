@@ -40,7 +40,7 @@ const HeroSection = () => {
       ];
 
       return (
-        <div className=' h-[500px] p-3 rounded-b-xl bg-gradient-to-t from-red-500 to-white'>
+        <div className=' h-[500px] md:h-[650px] p-3 rounded-b-xl bg-gradient-to-t from-red-500 to-white'>
         <div className='  items-center justify-center'>
         <Slider  {...settings}>
           {fillerContent.map((item, index) => (
