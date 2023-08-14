@@ -2,7 +2,7 @@ import React from 'react'
 
 const Artist = () => {
   return (
-    <div className='mt-9'>
+    <div className='mt-14'>
         <h1 className='text-red-400 text-3xl p-2 font-bold text-center uppercase'>- Know the Artist -</h1>
 
         <div className='flex flex-col m-2  gap-4 max-w-[900px] items-center md:items-start  justify-center md:m-auto mb-11 bg-slate-50 p-4 rounded-lg md:flex-row shadow-lg shadow-red-200 ' >
